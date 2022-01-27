@@ -1,6 +1,6 @@
-- 👋 Hi, I’m arun1118
+- 👋 Hi, I’m Arun
 - 👀 I’m interested in competitive coding and full stack development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
